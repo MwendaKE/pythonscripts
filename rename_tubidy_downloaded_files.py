@@ -1,3 +1,9 @@
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
+# Phone: +254 799 678 038
+
 import os
 import shutil
 import pathlib
@@ -36,7 +42,11 @@ while True:
         
     print("")
             
-		
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
+# Phone: +254 799 678 038	
 	
 
 	    
