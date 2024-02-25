@@ -1,3 +1,9 @@
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
+# Phone: +254 799 678 038
+
 import os
 import docx
 import re
@@ -181,3 +187,9 @@ while True:
     print("")
     print(" [+] Code Analysis successful.")
     print("")
+
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
+# Phone: +254 799 678 038
