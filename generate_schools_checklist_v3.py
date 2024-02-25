@@ -1,3 +1,8 @@
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
+
 import os
 import re
 import docx
@@ -157,5 +162,9 @@ while True:
 
     print(" [+] Check list generated successfully.")
 
+# MwendaKE Programs
+# https://github.com/MwendaKE
+# Email: erickmwenda256@gmail.com
+# Phone: +254 702 623 729
 
 
